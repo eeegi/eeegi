@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+### Connect with me!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/eeegi/)](https://www.linkedin.com/in/eeegi//)
+
+
+
 <!--
 **eeegi/eeegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
