@@ -1,10 +1,13 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+
+
 
 ### Connect with me!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/eeegi/)](https://www.linkedin.com/in/eeegi//)
 
-
+[![Gmail Badge](https://img.shields.io/badge/-david.kimoon.lee@gmail.com-c14438?style=flat&logo=Gmail&logoColor=black&link=mailto:david.kimoon.lee@gmail.com)](mailto:david.kimoon.lee@gmail.com)
 
 <!--
 **eeegi/eeegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
