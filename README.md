@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Kimoon 👋
 
 <div id="header" align="center">
 
@@ -10,6 +10,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-david.kimoon.lee@gmail.com-c14438?style=flat&logo=Gmail&logoColor=black&link=mailto:david.kimoon.lee@gmail.com)](mailto:david.kimoon.lee@gmail.com)
 
  ### Tech Stacks
+![Java](https://img.shields.io/badge/Java-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
+
+![iOS](https://img.shields.io/badge/iOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![C Sharp](https://img.shields.io/badge/CSharp-239120.svg?style=for-the-badge&logo=CSharp&logoColor=white)
+ 
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -19,9 +25,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-![C Sharp](https://img.shields.io/badge/CSharp-239120.svg?style=for-the-badge&logo=CSharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -30,8 +34,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
-![iOS](https://img.shields.io/badge/iOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
 
  ### My interesting tech  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
